@@ -1,14 +1,18 @@
 # Mentalcare-Expert-community-and-counselling-slot-booking-
 
 
-1. Payment System ( Razor pay )
-2. Notification Firebase FCM
-3. Auth2 (JWT) , login with facebook
-4. Slot managment and booking
-5. Community building using expert and user interation through question and answer
-6. Content sharig ( Photo sharing )
-7. Rest API
+Payment System ( Razor pay )
 
- AWS services:
-    S3 (Storing Images)
-    lambda (Compress Images) 
+Notification Firebase FCM
+
+Auth2 (JWT) , login with Facebook
+
+Slot management and booking
+
+Community building using expert and user interaction through question and answer
+
+Content sharing ( Photo sharing )
+
+Rest API
+
+AWS services: S3 (Storing Images) lambda (Compress Images)
