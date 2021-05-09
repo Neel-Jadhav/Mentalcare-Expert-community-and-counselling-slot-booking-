@@ -10,5 +10,5 @@
 7. Rest API
 
  AWS services:
-    S3 (Strong Image)
-    lambda (Compress photo) 
+    S3 (Storing Images)
+    lambda (Compress Images) 
