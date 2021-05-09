@@ -34,7 +34,7 @@ public class EmailSender implements EmailService {
     @Override
     public void sendmail(String userEmail, String otpValue) {
         String from = "edost_community@yahoo.com";
-        String pass ="olugwfzdfjzabsdw";
+        String pass ="oXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
        // Recipient's email ID needs to be mentioned.
       String to = userEmail;
       String host = "smtp.mail.yahoo.com";
