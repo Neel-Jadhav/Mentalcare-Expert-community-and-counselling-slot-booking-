@@ -18,8 +18,10 @@ public class AwsService {
     private AwsService() {
     }
     
-    private static BasicAWSCredentials creds = new BasicAWSCredentials("AKIAJAEHWCY362O2KVLA",
-            "e+yb4kPyFcLq/DRxv57IPGdyEvnL+vfYt4WR23qg");
+    private static BasicAWSCredentials creds = new BasicAWSCredentials("AKIAXxxxxxxxxxxxxxxxxLA",
+           XxxxxxxxxxxxxxxxxxxxxxxL+xxxxxxxxxx
+
+qg");
     private static AmazonS3 s3 = AmazonS3Client.builder().withRegion(Regions.US_EAST_1)
             .withCredentials(new AWSStaticCredentialsProvider(creds)).build();
 
