@@ -1,4 +1,4 @@
-# Mentalcare-Expert-community-and-counselling-slot-booking-
+# Mentalcare-Expert-community-and-counselling-slot-booking
 
 
 Payment System ( Razor pay )
